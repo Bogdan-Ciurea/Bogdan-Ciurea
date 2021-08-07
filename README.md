@@ -12,6 +12,12 @@
 [<img align="left" alt="BogdanC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BogdanC | Google" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" />][google]
 
+<br />
+
+### Active projects:
+
+  - Fifa Bot
+  - Goodgame Empire Bot
 
 <br />
 
