@@ -16,8 +16,9 @@
 
 ### Active projects:
 
-  - ⚽ Fifa Bot
-  - 🏰 Goodgame Empire Bot
+  - ⚽ Fifa Bot in Python using Selenium
+  - 🏰 Goodgame Empire Bot in Python using Pyautogui, Pandas, PyQt5 and OpenCV
+  - Atendance System in C#
 
 
 ### Tools and Languages:
