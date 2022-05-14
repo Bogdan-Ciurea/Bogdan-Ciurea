@@ -5,7 +5,7 @@
 - 🔭 I am close to starting my second year.
 - 🌱 I’m currently studying Computer Science.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Learn C# and .NET
+- 🥅 2022 Goals: Learn .NET & React
 
 ### Connect with me:
 
