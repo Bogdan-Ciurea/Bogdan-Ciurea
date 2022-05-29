@@ -18,7 +18,6 @@ src="https://img.shields.io/github/followers/Bogdan-Ciurea?logo=github&style=for
 
 ### Active projects:
 
-  - 🏰 Goodgame Empire Bot in Python using Pyautogui, Pandas, PyQt5 and OpenCV
   - A Chess game in C++ using Raylib
   - C# Chat Application
 
@@ -58,7 +57,7 @@ src="https://img.shields.io/github/followers/Bogdan-Ciurea?logo=github&style=for
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=PathFinding&theme=cobalt)](https://github.com/Bogdan-Ciurea/PathFinding)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=Chess-Game&theme=cobalt)](https://github.com/Bogdan-Ciurea/Chess-Game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=3D-Conway-s-Game-Of-Life&theme=cobalt)](https://github.com/Bogdan-Ciurea/3D-Conway-s-Game-Of-Life)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=FarmingBot-for-Goodgame-Empire&theme=cobalt)](https://github.com/Bogdan-Ciurea/FarmingBot-for-Goodgame-Empire)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=image-recognition-project&theme=cobalt)](https://github.com/Bogdan-Ciurea/FarmingBot-for-Goodgame-Empire)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=Hand-Controlled-Volume&theme=cobalt)](https://github.com/Bogdan-Ciurea/Hand-Controlled-Volume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=F1Website&theme=cobalt)](https://github.com/Bogdan-Ciurea/F1Website)
 
