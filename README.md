@@ -55,7 +55,7 @@ src="https://img.shields.io/github/followers/Bogdan-Ciurea?logo=github&style=for
 [google]: https://ciureabogdanalexandru@gmail.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=PathFinding&theme=cobalt)](https://github.com/Bogdan-Ciurea/PathFinding)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=PathFinding&theme=cobalt)](https://github.com/Bogdan-Ciurea/algorithm-visualizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=AlgorithmVisualizer&theme=cobalt)](https://github.com/Bogdan-Ciurea/algorithm-visualizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=Chess-Game&theme=cobalt)](https://github.com/Bogdan-Ciurea/Chess-Game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=3D-Conway-s-Game-Of-Life&theme=cobalt)](https://github.com/Bogdan-Ciurea/3D-Conway-s-Game-Of-Life)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bogdan-Ciurea&repo=image-recognition-project&theme=cobalt)](https://github.com/Bogdan-Ciurea/FarmingBot-for-Goodgame-Empire)
