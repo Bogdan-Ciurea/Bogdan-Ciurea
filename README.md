@@ -18,6 +18,7 @@ src="https://img.shields.io/github/followers/Bogdan-Ciurea?logo=github&style=for
 
 ### Active projects:
 
+  - An Algorithm Visualizer Software using Raylib and RayGui
   - A Chess game in C++ using Raylib
   - C# Chat Application
 
